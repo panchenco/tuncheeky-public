@@ -1,0 +1,19 @@
+EN:
+This document declares the private policy of "Tuncheeky - Tank 2020" also called the application in this document.
+For user convinience the application might keep the following data in its internal storage on a user's device:
+- Last used username
+- Last used port
+- Last used IP address
+In the case when the application is running in the "Host" (server) mode, it broadcasts a username and port to the local network so that other users in the same network will be able to connect to the game without manually entering the IP address and port.
+The application DOES NOT collect ANY OTHER information about its user, and also DOES NOT send ANY information about its user over the internet.
+The application might share the username with other users connected to the same game server.
+
+RU:
+Этот документ декларирует политику приватности "Tuncheeky - Tank 2020" (также Танчики - Tank 2020), также называемое приложение в этом документе.
+Для удобства пользователей приложение может хранить во внутреннем хранилище на устройстве пользователя следующую информацию:
+- Последнее использованое имя пользователя
+- Последний использованый порт
+- Последний использованый IP адрес
+В случае если приложение запущено в режиме сервера оно может отправлять широковещательные пакеты в локальную сети и те пакеты будут содержать имя пользователя и порт, для того чтобы дрегие пользователи находящиеся в той же самой локальной сети могли подключится к северу без ручного ввода IP адреса и порта.
+Приложение может также сообщать имя пользователей другим пользователям подключеных к одному и тому же игровому серверу.
+Приложение не собирает НИКАКОЙ ДРУГОЙ информации об пользователе и не пересылает НИКАКОЙ информации о пользователе через интернет.
