@@ -1,0 +1,5 @@
+{
+    "host": "tuncheeky.ru",
+    "port": 14660,
+    "restApiPort": 80
+}
